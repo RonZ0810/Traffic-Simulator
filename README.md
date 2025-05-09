@@ -1,6 +1,6 @@
 # Crowd Movement Simulator
 
-A visually interactive, parallelized simulation of crowd movement using agent-based modeling. This project demonstrates how individual agents (representing people/vehicles) navigate a 2D environment while avoiding collisions, forming groups, and adapting to their surroundings — all in real-time.
+A visually interactive, parallelized simulation of crowd movement using agent-based modeling. This project demonstrates how individual agents (representing people/vehicles) navigate a 2D environment while avoiding collisions, forming groups, and adapting to their surroundings, all in real-time.
 
 ---
 
